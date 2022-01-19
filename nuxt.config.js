@@ -3,7 +3,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/info-cards/'
+    base: '/info-cards-site/'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
