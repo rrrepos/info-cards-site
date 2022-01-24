@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{351:function(n,t,e){"use strict";e.r(t);var r=e(48),component=Object(r.a)({},(function(){var n=this.$createElement;return(this._self._c||n)("img",{attrs:{src:"_nuxt/img/preview.58bb229.png"}})}),[],!1,null,null,null);t.default=component.exports}}]);
