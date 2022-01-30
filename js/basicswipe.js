@@ -124,5 +124,3 @@ function addSwipeEvent(theDom, eventName, handleEvent) {
 
     }, false);
 }
-
-console.log("loaded swipe");
