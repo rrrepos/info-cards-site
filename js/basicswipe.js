@@ -1,5 +1,4 @@
 function addSwipeEvent(theDom, eventName, handleEvent) {
-    // console.log(theDom, eventName, handleEvent);
     var eStart=0, eEnd=0;
 
     theDom.addEventListener('touchstart', function(e){
@@ -58,13 +57,13 @@ function addSwipeEvent(theDom, eventName, handleEvent) {
         // swipeUp
         if (moveVal<0 && moveAbsVal>30 && eventName=="swipeUp") {
             // console.log("swipeUp");
-            handleEvent();
+            handleEvent(e);
         }
 
         // swipeDown
         if (moveVal>0 && moveAbsVal>30 && eventName=="swipeDown") {
             // console.log("swipeDown");
-            handleEvent();
+            handleEvent(e);
         }
 
         // swipeLeft
@@ -101,25 +100,25 @@ function addSwipeEvent(theDom, eventName, handleEvent) {
         // swipeUp
         if (moveVal<0 && moveAbsVal>30 && eventName=="swipeUp") {
             // console.log("swipeUp");
-            handleEvent();
+            handleEvent(e);
         }
 
         // swipeDown
         if (moveVal>0 && moveAbsVal>30 && eventName=="swipeDown") {
             // console.log("swipeDown");
-            handleEvent();
+            handleEvent(e);
         }
 
         // swipeLeft
         if (moveVal<0 && moveAbsVal>30 && eventName=="swipeLeft") {
             // console.log("swipeLeft");
-            handleEvent();
+            handleEvent(e);
         }
 
         // swipeRight
         if (moveVal>0 && moveAbsVal>30 && eventName=="swipeRight") {
             // console.log("swipeRight");
-            handleEvent();
+            handleEvent(e);
         }
 
     }, false);
