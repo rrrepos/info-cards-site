@@ -1,1 +1,0 @@
-__NUXT_JSONP__("manifest.js", {routes:["\u002F","decks\u002Fwhat_is_bitcoin"]})
