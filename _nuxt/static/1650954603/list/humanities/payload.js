@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/list/humanities", {data:[{decks:[{id:"24_character_strengths",title:"24 Character Strengths",description:"Know more about these strengths",tags:["humanities"],listable:true,dir:"\u002Fdecks\u002Fen\u002F24_character_strengths",createdAt:"2022-03-02T11:51:12.633Z"}]}],fetch:{},mutations:[]});
