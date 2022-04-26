@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/list/education", {data:[{decks:[{id:"finlands_edu_system",title:"Finland's Education System",description:"Know more of its features that make this unique educational system so effective",tags:["education","society"],listable:true,dir:"\u002Fdecks\u002Fen\u002Ffinlands_edu_system",createdAt:"2022-03-24T03:30:17.884Z"}]}],fetch:{},mutations:[]});
