@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/list/finance", {data:[{decks:[{id:"what_is_cbdc",title:"What is CBDC",description:"Is this the future of currency?",tags:["finance","technology"],listable:true,dir:"\u002Fdecks\u002Fen\u002Fwhat_is_cbdc",createdAt:"2022-02-08T10:48:11.277Z"}]}],fetch:{},mutations:[]});
